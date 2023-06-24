@@ -26,6 +26,10 @@ I have implemented a ResNet50V2 model for image classification using Keras. The 
 
 By utilizing **transfer learning** with the MobileNet model, we can leverage pre-trained weights and significantly reduce the training time required for our image classification task. This approach is particularly useful when working with limited training data, as we can benefit from the rich representations learned by the base model on a large-scale dataset like ImageNet.
 
+`vgg19`
+
+VGG19 is a deep convolutional neural network architecture known for its exceptional performance in image recognition tasks. With 19 layers, it utilizes small convolutional filters and max-pooling layers to extract hierarchical features from images. VGG19 has been widely used as a benchmark model in computer vision research and has achieved remarkable accuracy in various image classification challenges.
+
 **Visualization**
 ![predicted labels](https://github.com/aditya0929/Dog-Breeds-Classification/assets/127277877/37d63e3e-2083-42fa-97df-ee6912beda57)
 
