@@ -102,17 +102,6 @@
 
 ### Learning resources 
   
-  
-  1.[Transfer Learning](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a)
-  
-  2.[cnn-architectures](https://medium.com/@RaghavPrabhu/cnn-architectures-lenet-alexnet-vgg-googlenet-and-resnet-7c81c017b848)
-  
-  3.[how to build your own neural network](https://medium.com/towards-data-science/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
 
-  4.[VGG19](https://medium.com/@AnasBrital98/vgg-16-and-vgg-19-cnn-architectures-d876f639cab7)
-  
-  5.[ResNet50V2](https://medium.com/towards-data-science/build-a-custom-resnetv2-with-the-desired-depth-92892ec79d4b)
-  
-  6.[Transfer Learning using mobilenet and keras](https://medium.com/towards-data-science/transfer-learning-using-mobilenet-and-keras-c75daf7ff299)
 
  ### GITHUB LINK - https://github.com/aditya0929
