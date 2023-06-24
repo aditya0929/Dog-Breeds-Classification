@@ -44,6 +44,7 @@ I will preprocess the dataset by resizing the images and splitting it into train
 I will evaluate their performance using appropriate metrics. Additionally, I will visualize the segmentation results to gain insights into how well the models can accurately identify and classify different regions within the vegetable images.
 
 **Performance checker**
+
 ![Accuracy Evaluation](https://github.com/aditya0929/Dog-Breeds-Classification/assets/127277877/f6d43ce8-dfcd-4b6c-afbd-a90f28bacaff)
 
 ## after evaluation, `RESNET50V2` model looks to be the best fit model in this case of Dog Breed Classification .
