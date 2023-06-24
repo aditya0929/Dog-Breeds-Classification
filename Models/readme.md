@@ -34,24 +34,6 @@
 
 **6. Making of the models**
 
-  **A. MOBILENET**
-     
-     
-     Implementing MobileNet architecture using Keras. 
-     MobileNet is a lightweight convolutional neural network architecture designed for mobile and embedded vision applications.
-     It defines a sequential model and sequential layers are added to construct the MobileNet architecture
-     
-     The desired input image size is (64x64x3)  MobileNet model is initialized as the base model. 
-     This include_top=False argument to ensure that the top classification layer of the MobileNet model is excluded.
-     
-     After the convolutional layers, output is flattened and fully connected layers with dropout for regularization are added  
-     
-     Finally, the model ends with an output layer using softmax activation for multi-class classification.
-     
-     the model is compiled by specifying the loss function, optimizer, and evaluation metrics.
-     
-     The model is trained using the fit() function with provided training and validation datasets
-     
    **B. ResNet50V2**
    
    
