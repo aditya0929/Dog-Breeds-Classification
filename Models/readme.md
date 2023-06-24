@@ -69,4 +69,16 @@
     the model is trained usinf the fit() function to the training data (train_images)
     and validate it on the validation data (val_images) 
     using the provided training parameters after defining earlystopping and reduction in learning rate using reduce_lr
+
+   **C. VGG19**
    
+   
+    -The VGG19 model is a deep convolutional neural network that has been pre-trained on the ImageNet dataset. 
+    -Fine-tuning involves taking the pre-trained model and adapting it to a new task or 
+     dataset by training the top layers while keeping the lower layers frozen.
+    -Load the pre-trained VGG16 model
+    -Freeze the layers in the base model
+    -Add custom top layers
+    -Create the fine-tuned model
+    -Compile the model
+    -Train the model
