@@ -29,4 +29,16 @@ By utilizing **transfer learning** with the MobileNet model, we can leverage pre
 **Visualization**
 ![predicted labels](https://github.com/aditya0929/Dog-Breeds-Classification/assets/127277877/37d63e3e-2083-42fa-97df-ee6912beda57)
 
+Since the models' high levels of accuracy(90% and above) means that most of their pictures will be almost havinG similar predicted labels with little room for mistake, the anticipated labels for the vegetables are visualised as follows.
+
+**Throughout the project,** 
+
+I will preprocess the dataset by resizing the images and splitting it into training,validation and testing sets. For training, I will employ a loss function suitable for image segmentation, such as cross-entropy loss, and optimize the models using technique like  Adam optimization
+
+**After training the models,**
+
+I will evaluate their performance using appropriate metrics. Additionally, I will visualize the segmentation results to gain insights into how well the models can accurately identify and classify different regions within the vegetable images.
+
+**Performance checker**
+![Accuracy Evaluation](https://github.com/aditya0929/Dog-Breeds-Classification/assets/127277877/f6d43ce8-dfcd-4b6c-afbd-a90f28bacaff)
 
