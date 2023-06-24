@@ -82,3 +82,29 @@
     -Create the fine-tuned model
     -Compile the model
     -Train the model
+
+**7.Training and Validation Metrics Visualization**
+ 
+ 
+    plotting graphs showing training loss,
+    validation loss,
+    training accuracy,
+    validation accuracy,
+    mean squared error in terms of ALEXnet and SimpleCNN 
+    
+**8. Model prediction and evaluation**
+
+**9. Accuracy Evaluation and Confusion Matrix**
+
+**10. Finally, Training and Validation Metrics Visualization**
+
+**11. Additionally , the model architecture can also be visualized .**
+
+### Learning resources 
+  
+  
+  1.[Transfer Learning](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a)
+  
+  2.[cnn-architectures](https://medium.com/@RaghavPrabhu/cnn-architectures-lenet-alexnet-vgg-googlenet-and-resnet-7c81c017b848)
+  
+  3.[how to build your own neural network](https://medium.com/towards-data-science/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
