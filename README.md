@@ -50,11 +50,4 @@ I will evaluate their performance using appropriate metrics. Additionally, I wil
 
 This project will contribute to advancing the understanding and application of deep learning in the field of computer vision and could potentially find applications in sorting of dog images based on different classes.
 
-## after evaluation, `RESNET50V2` model looks to be the best fit model in this case of Dog Breed Classification .
-
-## even though the other models also have a high accuracy and have complete capacity for executing the task and predicting the labels.
-
-**Future Scope**
-
-This project will contribute to advancing the understanding and application of deep learning in the field of computer vision and could potentially find applications in sorting of dog images based on different classes.
 
