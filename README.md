@@ -46,5 +46,12 @@ I will evaluate their performance using appropriate metrics. Additionally, I wil
 **Performance checker**
 
 ![Accuracy Evaluation](https://github.com/aditya0929/Dog-Breeds-Classification/assets/127277877/f6d43ce8-dfcd-4b6c-afbd-a90f28bacaff)
+## after evaluation, `RESNET50V2` model looks to be the best fit model in this case of Dog Breed Classification .
+
+## even though the other models also have a high accuracy and have complete capacity for executing the task and predicting the labels.
+
+**Future Scope**
+
+This project will contribute to advancing the understanding and application of deep learning in the field of computer vision and could potentially find applications in sorting of dog images based on different classes.
 
 
