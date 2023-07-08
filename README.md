@@ -1,15 +1,7 @@
 # Dog Breeds Classification/https://github.com/World-of-ML/DL-Simplified/issues/297
 to predict correct dog breed labels corresponding to their dog images
 
-Full name : Aditya Narayan Jha
 
-GitHub Profile Link : https://github.com/aditya0929
-
-Email ID : adityajha8906@gmail.com
-
-Participant ID (if applicable): (certificate_id) - 7e43ecd9-76ff-4713-917e-f884b9fedf02
-
-Approach for this Project :
 
 **Image segmentation**
 
